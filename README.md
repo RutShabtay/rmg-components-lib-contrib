@@ -1,6 +1,16 @@
 # 📦 RMG Generic Components Library
 
-RMG Generic Components is a library of reusable React components designed to streamline your development process.
+Reusable, lightweight React components to streamline your development process.  
+✅ Published on [NPM](https://www.npmjs.com/package/rmg-components-lib) — ready to use!
+
+
+
+---
+
+> 🙌 **Want to contribute?** Fork this repo and open a pull request — let's build something great together!
+
+---
+
 
 ## 🚀 Installation
 
@@ -51,3 +61,15 @@ function App() {
 
 export default App;
 ```
+
+---
+
+## 🔗 Links
+
+- 📦 [View on NPM](https://www.npmjs.com/package/rmg-components-lib)
+- 🌐 [GitHub Repository]([https://github.com/your-username/rmg-components-lib](https://github.com/RutShabtay/rmg-components-lib-contrib)
+
+---
+
+Made with ❤️ by RMG
+
