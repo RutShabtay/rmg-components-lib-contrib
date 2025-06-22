@@ -1,0 +1,25 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "declaration": true,
+        "declarationDir": "dist",
+        "emitDeclarationOnly": false,
+        "outDir": "dist",
+        "module": "ESNext",
+        "target": "ESNext",
+        "moduleResolution": "node",
+        "jsx": "react",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "src/main.tsx",
+        "src/App.tsx",
+        "node_modules",
+        "dist"
+    ]
+}
